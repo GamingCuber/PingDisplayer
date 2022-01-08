@@ -1,0 +1,7 @@
+name: PingDisplayer
+version: 1.0
+main: mcplugins.io.github.GamingCuber.PingDisplayer.Main
+author: GamingCuber
+
+commands: 
+  ping: 
